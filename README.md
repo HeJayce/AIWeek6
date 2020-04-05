@@ -15,7 +15,7 @@
 ![image](https://github.com/HeJayce/AI/blob/master/excel1.png)
 ![image](https://github.com/HeJayce/AI/blob/master/excel2.png)
 
-
+## Python求法
 ### 导入函数库
 ```python
 import numpy as np
