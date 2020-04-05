@@ -65,5 +65,4 @@ ax.set_zlabel('z')
 plt.show()
 ```
 ### 运行结果
-
-
+![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg
